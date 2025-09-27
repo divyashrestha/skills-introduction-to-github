@@ -59,6 +59,9 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+
+** this is the example for creating branch, commiting code, and making pull request **
+
 <footer>
 
 <!--
